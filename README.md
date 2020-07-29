@@ -1,20 +1,47 @@
-### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">
+### Hey 👋, I'm Ayush
 
-<h4>This Readme.md is definetly not that customizable... why don't you check me out at my website: http://www.caffeine-coated.codes/ </h4>
+<a href="https://www.linkedin.com/in/winter-soldier/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/__winter.soldier__/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mehdi.mabrouki1">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-#### Anyways my SkillSet: 
+<br />
+<br />
 
-`Python`, `C++`, `C`, `JAVA`, `Kotlin`, `JavaScript`, `MATLAB`, `NodeJS`, `ReactJS`, `Android Studio`, `Tensorflow`, `Keras`
+Hi there, I'm **Ayush**, a **Full-Stack Developer**  and a **Competetive Coder** 🚀 from India.
+Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank">http://www.caffeine-coated.codes/</a>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-#### Want to connect with me?
-- 📓Check my Repositories and create `Pull Requests` for contributing and if u like it, hit that ⭐ button alongside the repository
-- 📱 Social media links? Here are some of them :-  &emsp;&emsp;*`There is 90% chance that I'll reply to you within 10 mins :p`*
-  - <img src="https://img.icons8.com/color/50/000000/linkedin.png" height = "20" width = "20"/> Linkedin: [@winter-soldier](https://www.linkedin.com/in/winter-soldier)
-  - <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height = "20" width = "20"/> Instagram: [@__winter.soldier__](https://www.instagram.com/__winter.soldier__)  
- 
-- 📫 Email id?
-  - <img src="https://img.icons8.com/color/48/000000/gmail.png"  height = "15" width = "16"/> Gmail: [ayushsingh1315@gmail.com](ayushsingh1315@gmail.com)
+**Talking about Personal Stuffs:**
 
-#### passez une bonne journée ☺️
+- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via ayushsingh1315@gmail.com to reach me.
+
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=WinterSoldier13&show_icons=true&hide_border=true)
 
 
