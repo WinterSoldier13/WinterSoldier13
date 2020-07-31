@@ -1,5 +1,4 @@
 ### Hey 👋, I'm Ayush
-<img width = "5%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
 <a href="https://www.linkedin.com/in/winter-soldier/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
