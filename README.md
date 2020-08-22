@@ -22,7 +22,7 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Wanna talk Physics or Algorithms, reach out to me.
 - 📫 Please email via ayushsingh1315@gmail.com to reach me.
 
 
