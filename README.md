@@ -43,5 +43,8 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=WinterSoldier13&show_icons=true&hide_border=true)
+<a href="https://twitter.com/officialPirate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&hide=html,css&layout=compact" />
+</a>
 
 
