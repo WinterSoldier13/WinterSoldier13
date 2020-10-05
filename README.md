@@ -47,4 +47,14 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&hide=html,css&layout=compact" />
 </a>
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
