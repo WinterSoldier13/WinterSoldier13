@@ -47,9 +47,9 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&hide=html,css&layout=compact" />
 </a>
 
-<table width="100%"> 
+<table width="80%"> 
   <tr>
-  <td width="50%">
+  <td width="40%">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/winter_soldier)
 
