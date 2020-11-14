@@ -26,7 +26,6 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
 - 📫 Please email via ayushsingh1315@gmail.com to reach me.
 
 
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
