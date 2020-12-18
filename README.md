@@ -42,8 +42,7 @@ Visit my profile at <a href="http://www.caffeine-coated.codes/" target="__blank"
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=WinterSoldier13&show_icons=true&hide_border=true)
 <a href="https://twitter.com/officialPirate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&hide=html,css&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <table width="80%"> 
   <tr>
