@@ -42,6 +42,3 @@ Visit my profile at <a href="http://me.wintersoldier.tech/" target="__blank">htt
 
 <img src="https://github-readme-stats.vercel.app/api?username=WinterSoldier13&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="60%"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSoldier13&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-
