@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi there, I'm **Ayush**, a **Full-Stack Developer**  and a **Competetive-Coder** 🚀.
+Hi there, I'm **Ayush**🚀.
 Visit my profile at <a href="http://me.wintersoldier.tech/" target="__blank">http://me.wintersoldier.tech/</a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
