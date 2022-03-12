@@ -16,9 +16,10 @@ Visit my profile at <a href="http://me.wintersoldier.tech/" target="__blank">htt
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+ 
+- 🤔 My interests are with Backend Engineering;
+- I <3 working on big architecture systems and finding ways to improve their speed.
+- I have worked with some of the hottest technologies including: Spark-Streaming, Kafka, ActiveMQ, Tensorflow, etc. 
 - 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
 - 💬 Wanna talk Physics or Algorithms, reach out to me.
 - 📫 Please email via ayushsingh1315@gmail.com to reach me.
