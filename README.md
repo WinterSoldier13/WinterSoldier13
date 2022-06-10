@@ -17,11 +17,11 @@ Visit my profile at <a href="https://wintersoldier13.github.io/" target="__blank
 
 **Talking about Personal Stuffs:**
  
-- 🤔 My interests are with Backend Engineering;
+- 🤔 My interests are with Backend Engineering/Distributed Systems Engineering;
 - I <3 working on big architecture systems and finding ways to improve their speed.
 - I have worked with some of the hottest technologies including: Spark-Streaming, Kafka, ActiveMQ, Tensorflow, etc. 
-- 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
-- 💬 Wanna talk Physics or Algorithms, reach out to me.
+- I absolutely love reading sytem-design articles on Medium.
+- 💬 Wanna talk about Physics or Algorithms, reach out to me.
 - 📫 Please email via ayushsingh1315@gmail.com to reach me.
 
 
